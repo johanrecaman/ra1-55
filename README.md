@@ -97,7 +97,11 @@ ra1-55/
 
 ```bash
 # Clone o repositório
+<<<<<<< Updated upstream
 git clone https://github.com/<seu-usuario>/ra1-55.git
+=======
+git clone https://github.com/johanrecaman/ra1-55.git
+>>>>>>> Stashed changes
 cd ra1-55
 
 # Instale as dependências com Poetry
