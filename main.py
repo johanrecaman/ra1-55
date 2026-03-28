@@ -1,7 +1,7 @@
 # Integrantes (ordem alfabética):
 #   Johan Recaman - johanrecaman
 #   Nicole Guarnieri - nick11nic
-# Grupo: (alterar para o nome do grupo no Canvas)
+# Grupo: ra1-55
 
 import sys
 import os
